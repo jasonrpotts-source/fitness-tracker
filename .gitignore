@@ -1,5 +1,12 @@
 node_modules/
 dist/
+src/
+.github/
+vite.config.js
+package.json
+README.md
+QUICK_START.md
+PROJECT_OVERVIEW.md
 .env
 .env.local
 .env.*.local
